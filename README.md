@@ -1,4 +1,4 @@
-# Eduarda-Ferreira-Certificates
+# Eduarda Ferreira Portfolio 
 
 This repository contains my professional certificates and complementary training.
 
